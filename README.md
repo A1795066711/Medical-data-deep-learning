@@ -20,7 +20,7 @@ With a data set from a contest, the project is aiming at improving the accuracy 
 Each entry of the medical data set is organized in following format:
 
                            { 33,           Jogging,            49105962326000,  -0.6946377,                  12.680544,                   0.50395286 }
-                           { Patient ID,   Movement( label ),  Timestamp,       Partial accelerate(X axis),  Partial accelerate(Y axis),  Partial accelerate(Z axis) } 
+                             Patient ID,   Movement( label ),  Timestamp,       Partial accelerate(X axis),  Partial accelerate(Y axis),  Partial accelerate(Z axis)  
                            
 ### The general CNN model
 The structure and some attributes are represented in CNN.pdf 
