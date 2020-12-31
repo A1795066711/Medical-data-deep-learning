@@ -23,4 +23,4 @@ Each entry of the medical data set is organized in following format:
                            { Patient ID,   Movement( label ),  Timestamp,       Partial accelerate(X axis),  Partial accelerate(Y axis),  Partial accelerate(Z axis) } 
                            
 ### The general CNN model
-the structure and some attributes are represented in CNN.pdf 
+The structure and some attributes are represented in CNN.pdf 
