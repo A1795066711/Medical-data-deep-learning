@@ -8,9 +8,6 @@ Orginal CNN model
 ### D2T4 CNN Tensroflow_1300hidden.py, D2T4 CNN Tensroflow_1800hidden.py
 Modified CNN model with hidden layer size at 1300 and 1800 respectively
 
-### WISDM_ar_v1.1_raw.zip
-File that contains the data set as a form of TXT
-
 ### Distribution
 Data set distribution on each movement category 
 
